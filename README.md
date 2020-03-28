@@ -1,2 +1,2 @@
 # Contacts App
- Xamarin Forms App with CRUD operations
+ Xamarin.Forms Applicatiion with CRUD database operations using sqlite-net-pcl package

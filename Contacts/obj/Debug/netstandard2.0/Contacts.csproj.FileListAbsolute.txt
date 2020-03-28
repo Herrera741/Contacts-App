@@ -1,0 +1,14 @@
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\bin\Debug\netstandard2.0\Contacts.deps.json
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\bin\Debug\netstandard2.0\Contacts.dll
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\bin\Debug\netstandard2.0\ref\Contacts.dll
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\bin\Debug\netstandard2.0\Contacts.pdb
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.AssemblyInfoInputs.cache
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.AssemblyInfo.cs
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.dll
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\ref\Contacts.dll
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.pdb
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\ContactsPage.xaml.g.cs
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.csproj.CoreCompileInputs.cache
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\XamlC.stamp

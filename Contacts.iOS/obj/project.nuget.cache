@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "S8bj7sKOa7BiV3UjOri8iOy1Dvf47qmTLU6K90dqH+oefnacIh+beuDZf0zs37ikq9vBGUESMXE5Cak9Pxd6gg==",
+  "dgSpecHash": "khTACyt4LMiRuGKSiZvjp52yNqZksZc0ytolYMp/iOeE0i7fme/R+tNFoQ2nrGWtNIRML6z1KKe0Q+lrvxUL3Q==",
   "success": true,
   "projectFilePath": "D:\\Projects Workspace\\Xamarin Projects\\Contacts\\Contacts.iOS\\Contacts.iOS.csproj",
   "expectedPackageFiles": [
@@ -8,9 +8,8 @@
     "C:\\Users\\sherr\\.nuget\\packages\\sqlitepclraw.bundle_green\\1.1.13\\sqlitepclraw.bundle_green.1.1.13.nupkg.sha512",
     "C:\\Users\\sherr\\.nuget\\packages\\sqlitepclraw.core\\1.1.13\\sqlitepclraw.core.1.1.13.nupkg.sha512",
     "C:\\Users\\sherr\\.nuget\\packages\\sqlitepclraw.provider.sqlite3.ios_unified\\1.1.13\\sqlitepclraw.provider.sqlite3.ios_unified.1.1.13.nupkg.sha512",
-    "C:\\Users\\sherr\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
-    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
-    "D:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.4.0.991265\\xamarin.forms.4.4.0.991265.nupkg.sha512"
+    "C:\\Users\\sherr\\.nuget\\packages\\xamarin.essentials\\1.5.2\\xamarin.essentials.1.5.2.nupkg.sha512",
+    "C:\\Users\\sherr\\.nuget\\packages\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
   ],
   "logs": []
 }

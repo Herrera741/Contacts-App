@@ -12,3 +12,4 @@ D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.
 D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\ContactsPage.xaml.g.cs
 D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.csproj.CoreCompileInputs.cache
 D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projects Workspace\Xamarin Projects\Contacts\Contacts\obj\Debug\netstandard2.0\Contacts.csprojAssemblyReference.cache
